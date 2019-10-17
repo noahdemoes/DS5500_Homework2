@@ -34,4 +34,14 @@ Mine are still found here: https://github.com/noahdemoes/DS5500_Homework1/blob/m
 
 ### Similarities and Differences
 
+Monica uses the same approach that I do and splits this problem into three plots, one for each of the variables in question, Life exceptancy, Child mortality, and GDP/Captia. Monica does better than me by including what the units are for the variable on the Y-axis. Monica worked un the google colab which includes more interactive features that my static plots do not provide.
+
+### Interpretable
+
+Monica's visualizations are highly interpretable. Each continent is clearly defined by a unique color. All titles and axis labels are included and are descriptive. 
+
+### Effective
+
+Monica's visualizations are highly effective in answering the questions because they include all necessary and relavant information that enables a view to quickly digest and understand the information presented.
+
 

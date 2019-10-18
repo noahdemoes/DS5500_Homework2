@@ -46,6 +46,9 @@ Monica's visualizations are highly effective in answering the questions because 
 
 ## Problem 4
 
+Code for problem 4 and 5 can be found here: 
+[a relative link](DS5500_Homework.ipnb)
+
 I created 5 models. The first 4 models were a standard linear regression, ridge regression, lasso, and Elastic Net Model.
 
 My performance metric was Mean Squared Error. The results for the four base line tests are listed below.

@@ -44,4 +44,26 @@ Monica's visualizations are highly interpretable. Each continent is clearly defi
 
 Monica's visualizations are highly effective in answering the questions because they include all necessary and relavant information that enables a view to quickly digest and understand the information presented.
 
+## Problem 4
+
+I created 5 models. The first 4 models were a standard linear regression, ridge regression, lasso, and Elastic Net Model.
+
+My performance metric was Mean Squared Error. The results for the four base line tests are listed below.
+
+Linear Model MSE: 19162.129390028073
+Ridge Model MSE: 19162.129390028254
+Lasso Model MSE: 19162.130221430965
+Elastic Net Model MSE: 19162.12940498447
+
+I sought to improve these results and implemented a piecewise function. For GDP/Capita <= $25,000 the model was:
+
+For GDP/Capita > $25,000 the model was: 
+
+The resulting MSE was 120. The resulting plot is shown below.
+
+
+![DS5500_Homework2](DS5500_Homework2_Problem4.jpg)
+
+A piece-wise model made since in this context because the relative change in life expectancy did not change very much between varying levels of GDP/Capita. This may lead to one to conclude that $25,000 may be a reasonable estimation for a standard of living criteria. GDP/Capita less than $25,000 was volital and steep which is why the piece wise model made since in this context.
+
 

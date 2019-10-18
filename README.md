@@ -47,7 +47,7 @@ Monica's visualizations are highly effective in answering the questions because 
 ## Problem 4
 
 Code for problem 4 and 5 can be found here: 
-[a relative link](https://github.com/noahdemoes/DS5500_Homework2/blob/master/DS5500_Homework2.ipynb)
+[Problem 4 and Problem 5 code](https://github.com/noahdemoes/DS5500_Homework2/blob/master/DS5500_Homework2.ipynb)
 
 I created 5 models. The first 4 models were a standard linear regression, ridge regression, lasso, and Elastic Net Model.
 

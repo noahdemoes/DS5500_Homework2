@@ -44,6 +44,7 @@ Monica's visualizations are highly interpretable. Each continent is clearly defi
 
 Monica's visualizations are highly effective in answering the questions because they include all necessary and relavant information that enables a view to quickly digest and understand the information presented.
 
+# FOR PROBLEM 4 AND 5 IF [Problem 4 and Problem 5 code](https://github.com/noahdemoes/DS5500_Homework2/blob/master/DS5500_Homework2.ipynb) DOES NNOT RENDER  past the link [here](https://nbviewer.jupyter.org/)
 ## Problem 4
 
 Code for problem 4 and 5 can be found here: 
